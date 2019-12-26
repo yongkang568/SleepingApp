@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SleepingApp</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
 </resources>
